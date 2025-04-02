@@ -113,6 +113,6 @@ onMounted(() => {
 .content {
   display: flex;
   justify-content: center;
-  margin-top: 20px;
+  margin-top: 21px;
 }
 </style>
